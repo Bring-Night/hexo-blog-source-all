@@ -2,9 +2,7 @@
 title: Eureka踩坑
 date: 2018-11-29 15:44:53
 tags: Eureka
-tags: SpringCloud
-tags: SpringBoot
-tags: Java
+categories: Eureka
 ---
 
 # Eureka踩坑
